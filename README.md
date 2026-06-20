@@ -12,7 +12,7 @@ Computer Engineering graduate from the American University in Dubai with a GPA o
 
 ## Featured Projects
 
-### E-Commerce Recommendation Engine
+### [E-Commerce Recommendation Engine](https://github.com/AmirrG1/Ecommerce-Recommendation-Engine)
 Machine learning recommendation project using Python, Pandas, Scikit-learn, Logistic Regression, and Streamlit.
 
 ### AI Automation Agent
