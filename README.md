@@ -15,11 +15,8 @@ Computer Engineering graduate from the American University in Dubai with a GPA o
 ### [E-Commerce Recommendation Engine](https://github.com/AmirrG1/Ecommerce-Recommendation-Engine)
 Machine learning recommendation project using Python, Pandas, Scikit-learn, Logistic Regression, and Streamlit. Achieved Precision@10 of 0.64 and Recall@10 of 0.98.
 
-### AI Automation Agent
-Python application that integrates third-party LLM APIs to convert unstructured input into structured records.
-
-### Airport Digital Twin
-Senior capstone project focused on real-time monitoring, computer vision, and event tracking using Python.
+### [Airport Digital Twin](https://github.com/AmirrG1/airport-digital-twin)
+Documentation repo for a computer vision digital twin prototype using Python, OpenCV, YOLOv8, ROI tracking, EMA smoothing, DBSCAN congestion detection, and KPI logging.
 
 ## Contact
 
