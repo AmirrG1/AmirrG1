@@ -4,21 +4,27 @@ Computer Engineering graduate from the American University in Dubai with a GPA o
 
 ## Technical Skills
 
-- Programming: Python, C++, SQL, JavaScript
-- Data & Automation: Pandas, Scikit-learn, ETL, data pipelines, REST APIs
-- Databases: Relational databases, schema design, SQL queries
-- AI Integration: OpenAI / Anthropic APIs, prompt engineering, structured data extraction
-- Tools: Git, Docker, Azure, Power BI
+* Programming: Python, C++, SQL, JavaScript
+* Data & Automation: Pandas, Scikit-learn, ETL, data pipelines, REST APIs
+* Databases: Relational databases, schema design, SQL queries
+* AI Integration: OpenAI / Anthropic APIs, prompt engineering, structured data extraction
+* Tools: Git, Docker, Azure, Power BI
 
 ## Featured Projects
 
 ### [E-Commerce Recommendation Engine](https://github.com/AmirrG1/Ecommerce-Recommendation-Engine)
+
 Machine learning recommendation project using Python, Pandas, Scikit-learn, Logistic Regression, and Streamlit. Achieved Precision@10 of 0.64 and Recall@10 of 0.98.
 
 ### [Airport Digital Twin](https://github.com/AmirrG1/airport-digital-twin)
+
 Documentation repo for a computer vision digital twin prototype using Python, OpenCV, YOLOv8, ROI tracking, EMA smoothing, DBSCAN congestion detection, and KPI logging.
+
+### [AI Automation Agent](https://github.com/AmirrG1/ai-automation-agent)
+
+Clean Python demo that converts unstructured real-estate style messages into structured lead records using text processing, JSON-style output, and CSV export. Built with fake sample data only, without real company or client information.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/amirali-tamizi-389451299/
-- Email: amiralitamizi@gmail.com
+* LinkedIn: https://www.linkedin.com/in/amirali-tamizi-389451299/
+* Email: [amiralitamizi@gmail.com](mailto:amiralitamizi@gmail.com)
